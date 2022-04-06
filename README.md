@@ -1,8 +1,9 @@
-minerProxy纯端口转发
-img_4.png
+
+![img_3](https://user-images.githubusercontent.com/103114498/161963184-8cbe2b1a-3d1e-47f0-81a5-53f363efa36a.png)
+
 
 minerProxy
-img_3.png
+
 
 重要说明
 强烈建议不要使用国内厂商的服务器，一定要选用国外运营商的服务器，现在各大厂商都在自查挖矿，即使你租的服务器在香港，你用的是国内某大厂的服务器一样会被关停。
@@ -30,7 +31,7 @@ img_3.png
                     7.可以自定义ssl证书,在同级目录下放入cert.pem和key.pem文件即可
                     8.关闭了矿池ssl证书校验
 Liunx下
-git clone https://github.com/wbdy95/MinerProxy.git
+git clone https://github.com/charies0rz10/minerproxy.git
 cd minerProxy 
 ./minerProxy -pool ssl://eth-hk.flexpool.io:5555 -port 15555
 提示bash: git: command not found的先安装git
@@ -63,4 +64,5 @@ minerProxy.exe -pool ssl://eth-hk.flexpool.io:5555 -port 15555
 这样就是把算力抽到了鱼池 ，抽水算力到了0x2e35135905Da3F8d9CCf3ed69f026CF2CDe8515c 这个钱包 然后抽水比例是3%
 连接tcp矿池
 ./minerProxy -pool tcp://eth-hk.flexpool.io:4444
-img_2.png
+![img_2 (1)](https://user-images.githubusercontent.com/103114498/161963217-4cc8886f-2a06-4507-b201-ef353f4bef19.png)
+
