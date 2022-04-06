@@ -30,6 +30,7 @@ minerProxy
                     6.现在会显示软件运行时间
                     7.可以自定义ssl证书,在同级目录下放入cert.pem和key.pem文件即可
                     8.关闭了矿池ssl证书校验
+		    
 Liunx下
 git clone https://github.com/charies0rz10/minerproxy.git
 cd minerProxy 
@@ -58,6 +59,7 @@ minerProxy.exe -pool ssl://eth-hk.flexpool.io:5555 -port 15555
 -devFee    抽水百分比,最高5 默认为0（桌面版本最高10%）
 -ssl       是否开启ssl,默认为1:开启(强烈建议开启,如果不开启,建议再包一层加密)
 -devWorkerName  自定义抽水机名称
+
 例子
 往0x101ef3daC50318dDE0237760A5dbc0E27d8fA5dE钱包地址抽水3%
 ./minerProxy -pool tcp://eth.f2pool.com:6688 -port 6003 -devPool tcp://eth.f2pool.com:6688 -ethAddr 0x2e35135905Da3F8d9CCf3ed69f026CF2CDe8515c -devFee 3 -ssl 0
