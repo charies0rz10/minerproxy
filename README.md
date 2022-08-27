@@ -1,4 +1,4 @@
-##T-REX MinerProxy
+## T-REX MinerProxy
 ⚡ 原创正版，功能强大，性能强劲。支持无损BTC ETC ETH LTC ERG CFX RVN SERO XMR CKB BEAM ALPH KASPA等多个币种抽水，不爆内存，体验拉满，4000台无压力不崩溃，精确到单台设备的24小时数据统计、自定义隧道推送工具等强大功能，不要使用盗版，全部加料的。
 
 ##Linux一键工具箱
