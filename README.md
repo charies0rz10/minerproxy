@@ -2,7 +2,10 @@ T-REX MinerProxy
 ⚡ 原创正版，功能强大，性能强劲。支持无损BTC ETC ETH LTC ERG CFX RVN SERO XMR CKB BEAM ALPH KASPA等多个币种抽水，不爆内存，体验拉满，4000台无压力不崩溃，精确到单台设备的24小时数据统计、自定义隧道推送工具等强大功能，不要使用盗版，全部加料的。
 
 Linux一键工具箱
-bash <(curl -s -L https://raw.githubusercontent.com/KISS1996/trexminer/main/install.sh) image
+bash <(curl -s -L https://raw.githubusercontent.com/KISS1996/trexminer/main/install.sh) 
+![1661567983779](https://user-images.githubusercontent.com/103114498/187011125-8b302b2a-fef8-45ee-a91a-f97bf8498395.png)
+
+
 
 安装完成后会提示端口号，控制页面登录就是您的服务器IP+端口号
 
